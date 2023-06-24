@@ -1,4 +1,4 @@
-![Preview Image](https://ibb.co/9T5rVtt)
+![Preview Image](https://i.ibb.co/WyJ2Ptt/preview.png)
 
 3.Guide React Native Development
   - config  react-native 
